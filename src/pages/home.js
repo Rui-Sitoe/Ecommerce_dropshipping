@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Home3</h1>
 
       <nav>
-        <Link to="/home">Home</Link>
+        <Link to="/home">HomePage</Link>
       </nav>
     </>
   );
